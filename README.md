@@ -10,8 +10,6 @@
   
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=m4chado&bg_color=0d1117&color=9d00ff&line=9d00ff&point=9d00ff&area=true&hide_border=true)](https://github.com/m4chado)
-
  <div align="center">  
   
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
