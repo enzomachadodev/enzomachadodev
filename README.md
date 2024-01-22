@@ -4,9 +4,9 @@
 
 <div align="center">  
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=m4chado&show_icons=true&count_private=true&hide_border=true&title_color=9d00ff&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117" alt="Enzo de Freitas Machado github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=enzomachadodev&show_icons=true&count_private=true&hide_border=true&title_color=9d00ff&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117" alt="Enzo de Freitas Machado github stats" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4chado&layout=compact&hide_border=true&title_color=9d00ff&text_color=fff&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzomachadodev&layout=compact&hide_border=true&title_color=9d00ff&text_color=fff&bg_color=0d1117" />
   
 </div>
 
@@ -18,7 +18,7 @@
  
   <div align="center">  
   
- ![visitor badge](https://komarev.com/ghpvc/?username=m4chado&color=9d00ff)
+ ![visitor badge](https://komarev.com/ghpvc/?username=enzomachadodev&color=9d00ff)
   
  </div>
 
